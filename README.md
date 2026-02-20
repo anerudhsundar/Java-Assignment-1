@@ -1,1 +1,1 @@
-# Java-Assignment-1
+The Mini Banking System is a console-based Java application designed to simulate basic banking operations. It allows users to create accounts, deposit and withdraw money, and check account balances through a menu-driven interface. The project demonstrates the use of core Java programming concepts such as Object-Oriented Programming (OOP), file handling, and exception handling in a real-world banking scenario.This application serves as a simple model of how banking systems manage customer accounts and transactions digitally.
